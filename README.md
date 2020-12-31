@@ -1,2 +1,2 @@
 # IronTune
-IronTune (ID Android SW integration solution)
+IronTune (ID/SW Android SW integration solution)
